@@ -51,3 +51,7 @@ The forecast API used was Dark Sky API found [here][forecast].
 [React]:https://facebook.github.io/react/
 [maps]:https://developers.google.com/maps/
 [forecast]:https://darksky.net/dev/
+
+### Currently Work In Progress
+
+Moving api calls from the frontend to the backend 
